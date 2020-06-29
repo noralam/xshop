@@ -1,0 +1,129 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: X Shop\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-29 02:12+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.2.7"
+
+#: template-parts/content-search.php:9 template-parts/content.php:9
+msgid " / "
+msgstr ""
+
+#. number of items in the mini cart.
+#: inc/xshop-woocommerce.php:54
+#, php-format
+msgid "%d"
+msgid_plural "%d"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/xshop-woocommerce.php:121
+msgid "Add shop widgets here."
+msgstr ""
+
+#: inc/xshop-woocommerce.php:105
+msgid "Close"
+msgstr ""
+
+#. %s: post title
+#: functions.php:81
+#, php-format
+msgid "comment <span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: template-parts/content-search.php:32 template-parts/content.php:43
+msgid "Continue Reading .."
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:50
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: header.php:37
+msgid "Header image"
+msgstr ""
+
+#: footer.php:25
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. Author of the theme
+msgid "Noor alam"
+msgstr ""
+
+#: template-parts/content-search.php:36 template-parts/content.php:63
+msgid "Pages:"
+msgstr ""
+
+#. %s: post author.
+#: functions.php:69
+#, php-format
+msgctxt "post author"
+msgid " %s"
+msgstr ""
+
+#. %s: post date.
+#: functions.php:63
+#, php-format
+msgctxt "post date"
+msgid " %s"
+msgstr ""
+
+#. %s: CMS name, i.e. WordPress.
+#: footer.php:27
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: inc/xshop-woocommerce.php:119
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/xshop-woocommerce.php:92
+msgid "Shopping Cart "
+msgstr ""
+
+#: header.php:28
+msgid "Skip to content"
+msgstr ""
+
+#. 1: Theme name, 2: Theme author.
+#: footer.php:32
+#, php-format
+msgid "Theme: %1$s by %2$s"
+msgstr ""
+
+#: inc/recomended-plugin.php:63
+msgid "WooCommerce"
+msgstr ""
+
+#. Name of the theme
+msgid "X Shop"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"X Shop is a child theme of X blog WordPress theme. X Shop is one of the best "
+"theme to create a perfect shop website using WooCommere. X Shop is "
+"completely WooCommere based theme, With super eCommerce options, fast and "
+"highly customizable. X Shop works with any of your favorite page builders "
+"likes Elementor, Visual Composer, Beaver Builder, Divi, Brizy, etc. X Shop "
+"is perfect for shop, store, agency, blog, portfolio, restaurant, wedding, "
+"construction, hospital, school, interior, car workshop, barbershop, "
+"furniture shop, yoga, resume, charity, digital marketing, etc. X Shop is "
+"well optimized that helps to rank your website at the top of search engines. "
+"it also adds options to manage WooCommerce plugin products per page, "
+"products per column, WooCommerce page layouts, gallery zoom etc."
+msgstr ""
